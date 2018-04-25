@@ -22,6 +22,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Adam Circle https://www.adamcircle.com
 - Adam Hamot http://zamn.net
 - Adam McNeilly http://adammcneilly.com
+- Adarsh Pai http://www.adarshpai.com/
 - Adil Ansari http://ansari.io
 - Adil Virani http://aspv.pw/
 - Aditi Mohanty http://aditimohanty.com
